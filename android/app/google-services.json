@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385029246888",
+    "firebase_url": "https://fir-project-1073e.firebaseio.com",
+    "project_id": "fir-project-1073e",
+    "storage_bucket": "fir-project-1073e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385029246888:android:f68af9cadf769d6013979d",
+        "android_client_info": {
+          "package_name": "com.hokagelab.donimst.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385029246888-mru4s4l5obu86vdfdv82p9rh743hkr46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YU1N86vFoEFmUYv2sGh8456s30nmfwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385029246888-mru4s4l5obu86vdfdv82p9rh743hkr46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
